@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Weap0nX/weather-app#readme",
   "dependencies": {
-    "postman-request": "^2.88.1-postman.31"
+    "postman-request": "^2.88.1-postman.31",
+    "readline-sync": "^1.4.10"
   }
 }
